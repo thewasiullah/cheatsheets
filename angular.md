@@ -1,6 +1,6 @@
 
 
-
+```angular
 <ul>
   <li *ngFor="let item of items; let i = index">
     {{i}} {{item}}
@@ -14,3 +14,4 @@
     {{item}}
   </li>
 </ul>
+```
