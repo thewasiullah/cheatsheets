@@ -6,7 +6,7 @@
 ### Sections
 
 
-* [Angular Pipes](https://nextjs.org/)
+* [Angular Pipes](https://github.com/thewasiullah/cheatsheets/edit/main/angular.md#angular-pipes)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
