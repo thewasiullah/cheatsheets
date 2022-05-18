@@ -41,9 +41,9 @@ export class HighlightPipe implements PipeTransform {
 ```
 
 #### Highlight pipe usage
-```angular
+```html
 <div [innerHTML]="item.Content  | highlight: search "></div>
-'''
+```
 
 #### ngFor example
 ```angular
