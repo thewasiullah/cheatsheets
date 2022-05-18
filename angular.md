@@ -2,6 +2,10 @@
 # Angular CheatSheet
 
 
+
+
+
+#### ngFor example
 ```angular
 <ul>
   <li *ngFor="let item of items; let i = index">
