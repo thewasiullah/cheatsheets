@@ -15,10 +15,7 @@
 
 
 ### Highlight pipe
-
 Pipe to hightlight given text
-
-#### Highlight pipe class
 ```typescript
 import { PipeTransform, Pipe } from '@angular/core';
 
@@ -39,8 +36,6 @@ export class HighlightPipe implements PipeTransform {
 }
 
 ```
-
-#### Highlight pipe usage
 ```html
 <div [innerHTML]="item.Content  | highlight: search "></div>
 ```
