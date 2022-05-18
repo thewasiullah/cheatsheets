@@ -3,6 +3,16 @@
 
 
 
+### Sections
+
+
+* [Angular Pipes](https://nextjs.org/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+### Angular Pipes
 
 
 #### ngFor example
@@ -21,3 +31,4 @@
   </li>
 </ul>
 ```
+
