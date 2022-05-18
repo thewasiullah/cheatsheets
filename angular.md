@@ -19,7 +19,7 @@
 Pipe to hightlight given text
 
 #### Highlight pipe class
-```angular
+```typescript
 import { PipeTransform, Pipe } from '@angular/core';
 
 @Pipe({ name: 'highlight' })
