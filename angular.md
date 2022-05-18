@@ -46,7 +46,7 @@ export class HighlightPipe implements PipeTransform {
 ```
 
 #### ngFor example
-```angular
+```html
 <ul>
   <li *ngFor="let item of items; let i = index">
     {{i}} {{item}}
